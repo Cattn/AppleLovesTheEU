@@ -1,6 +1,6 @@
 # AppleLovesTheEU
 
-A (in progress) collection of love letters between Apple, and various European Union agencies. Avalible at [applelovesthe.eu](applelovesthe.eu)
+A (in progress) collection of love letters between Apple, and various European Union agencies. Avalible at [applelovesthe.eu](https://applelovesthe.eu)
 
 ## European Commission
 - 2024
